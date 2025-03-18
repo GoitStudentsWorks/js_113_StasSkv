@@ -1,11 +1,11 @@
 {
-  "name": "project-dream-team-12",
+  "name": "js_113_StasSkv",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-dream-team-12/",
+    "build": "vite build --base=/js_113_StasSkv/",
     "preview": "vite preview"
   },
   "devDependencies": {
